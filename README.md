@@ -30,14 +30,14 @@ This app was built during the "Next Level Week | RocketSeat ".
 
 ## :gear: Features
 </br>
-⌨️Typescript —> Extends JavaScript by adding types;</br> 
-⚙️ Node Js —> A platform for building network applications;</br>
-🌐 Express —> Web framework for Node.js</br>
-📚 Sqlite —> C-language library that implements a SQL database engine;</br>
-⚛️ ReactJS —> A JavaScript library for building user interfaces;</br>
-⚛️ React Native —> A framework for building native apps using React;</br>
-🌐 Axios —> Promise based HTTP client for the browser and Node JS;</br>
-📱&nbsp; Expo —> A framework and a platform for universal React applications.</br>
+⌨️ **Typescript** —> Extends JavaScript by adding types;</br> 
+⚙️ **Node Js** —> A platform for building network applications;</br>
+🌐 **Express** —> Web framework for Node.js</br>
+📚 **Sqlite** —> C-language library that implements a SQL database engine;</br>
+⚛️ **ReactJS** —> A JavaScript library for building user interfaces;</br>
+⚛️ **React Native** —> A framework for building native apps using React;</br>
+🌐 **Axios** —> Promise based HTTP client for the browser and Node JS;</br>
+📱&nbsp; **Expo** —> A framework and a platform for universal React applications.</br>
 
 </br>
 
