@@ -2,7 +2,7 @@
 <h1 align="center">
     <img align="center" src="./assets/logo.png" width="50%"/></br></br>
 
-Node JS | ReactJS | React Native
+    Node JS | ReactJS | React Native
 </h1>
 
 <p align="center">
@@ -14,11 +14,8 @@ Node JS | ReactJS | React Native
 
 </br>
 
-### Imagens
+### Images
 <img src="./assets/registerClass.gif" alt="Register a Class"/>
-
-### Filter a class
-<img src="./assets/filterClass.gif" alt="Filter a Class"/>
 
 ---
 
