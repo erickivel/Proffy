@@ -9,7 +9,8 @@
 <p align="center">
   <a href="#question-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-getting-started">Getting Started</a>
+  <a href="#rocket-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 
@@ -62,3 +63,6 @@ This app was built during the "Next Level Week | RocketSeat ".
 4. Open your mobile emulator
 5. On the Expo page (open in the browser), click to run on your emulator (ios/android)
 
+## :memo: License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
