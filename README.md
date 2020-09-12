@@ -16,13 +16,15 @@
 
 </br>
 
-### Register a Class
+## Register a Class:
 
 <img src="./assets/registerClass.gif" alt="Register a class">
 
-### Filter a Class
+### Filter a Class:
 
-<img width="50%" height="50%" src="./assets/filterClass.gif" alt="Filter a class">
+<p align="center" >
+    <img width="33%" height="33%" src="./assets/filterClass.gif" alt="Filter a class">
+</p>
 
 ---
 
