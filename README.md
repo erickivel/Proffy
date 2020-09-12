@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img align="center" src="./assets/logo.png" width="50%"/></br></br>
+    <img align="center" src="./assets/logo.png" alt="logo" width="50%"/></br></br>
     Node JS | ReactJS | React Native
 </h1>
 
@@ -16,7 +16,13 @@
 
 </br>
 
-### Images
+### Register a Class
+
+<img src="./assets/registerClass.gif" alt="Register a class">
+
+### Filter a Class
+
+<img width="50%" height="50%" src="./assets/filterClass.gif" alt="Filter a class">
 
 ---
 
